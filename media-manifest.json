@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "id": "target-page-8f5b31c690229196",
+      "role": "hero",
+      "src": "https://mosaicage.com/cdn/shop/files/swanneck_822e503f-5a1f-4fe3-8688-e825f70ab320.jpg?v=1623787690",
+      "alt": "Turkish Mosaic Glass Lamps – Handmade Mosaic Lighting | Mosaic Age",
+      "source": "approved_url"
+    },
+    {
+      "id": "target-page-66d087eb3bd38bb6",
+      "role": "supporting",
+      "src": "https://mosaicage.com/cdn/shop/files/logo_1_gold.png?v=1781450116&width=100",
+      "alt": "Mosaic Age - Art in Light",
+      "source": "approved_url"
+    },
+    {
+      "id": "target-page-996495307c3699d0",
+      "role": "supporting",
+      "src": "https://mosaicage.com/cdn/shop/files/new_photo_for_sute.jpg?v=1704611553&width=1200",
+      "alt": "Deep Ocean Mosaic Lamp",
+      "source": "approved_url"
+    },
+    {
+      "id": "target-page-25f20e7a95bcaea2",
+      "role": "supporting",
+      "src": "https://mosaicage.com/cdn/shop/collections/round-ball-mosaic-collection.png?v=1781450715&width=360",
+      "alt": "Round Ball Mosaic Collection",
+      "source": "approved_url"
+    },
+    {
+      "id": "target-page-79fa187bd20aca5b",
+      "role": "supporting",
+      "src": "https://mosaicage.com/cdn/shop/collections/swan-neck-mosaic-collection.png?v=1781450718&width=360",
+      "alt": "Swan Neck Mosaic Collection",
+      "source": "approved_url"
+    },
+    {
+      "id": "target-page-9e4eb5f0751b0b7f",
+      "role": "supporting",
+      "src": "https://mosaicage.com/cdn/shop/collections/pitcher-mosaic-collection.png?v=1781450719&width=360",
+      "alt": "Pitcher Mosaic Collection",
+      "source": "approved_url"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mosaicage.com public resource",
+  "primary_reference": "https://mosaicage.com",
+  "updated_at": "2026-07-11T08:50:23.226Z",
+  "refresh_days": 45,
+  "discovery": {
+    "rss": "https://raydenai.github.io/mosaicage-com-github-pages-0e50998e/feed.xml",
+    "atom": "https://raydenai.github.io/mosaicage-com-github-pages-0e50998e/atom.xml",
+    "sitemap": "https://raydenai.github.io/mosaicage-com-github-pages-0e50998e/sitemap.xml",
+    "robots": "https://raydenai.github.io/mosaicage-com-github-pages-0e50998e/robots.txt"
+  },
+  "asset_base_url": "https://raydenai.github.io/mosaicage-com-github-pages-0e50998e"
+}
